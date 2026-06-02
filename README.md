@@ -15,12 +15,14 @@ My goal is to become a professional Network Engineer and Cybersecurity Specialis
 - Database Management
 - System Administration
 - Software Development
+System and Software Analytics
+- Graphic Design
 - ICT Consultancy
 
 ## 💻 Technical Skills
 
 ### Programming Languages
-- C++
+- python
 - JavaScript
 - PHP
 - SQL
@@ -56,9 +58,6 @@ My goal is to become a professional Network Engineer and Cybersecurity Specialis
 
 ## 🛠 Projects
 
-### Stationery Shop Management System
-A web-based system for managing products, customers, invoices, and reports.
-
 ### Teacher Information Management System
 A system that allows teachers to manage and submit student information efficiently.
 
@@ -74,6 +73,8 @@ Hands-on exercises and notes focused on cybersecurity concepts and best practice
 - Become a Certified Network Engineer
 - Build expertise in Cybersecurity
 - Develop enterprise-level web applications
+- System analyst and Software Engineer
+- Multimedia and Graphic Designer 
 - Provide ICT solutions through Bravan Matrix
 
 
