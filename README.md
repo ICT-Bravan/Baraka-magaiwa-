@@ -55,6 +55,7 @@ System and Software Analytics
 - Linux Administration
 - Object-Oriented Programming (C++)
 - Network Security
+- Server Management
 
 ## 🛠 Projects
 
