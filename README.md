@@ -26,7 +26,9 @@ System and Software Analytics
 - JavaScript
 - PHP
 - SQL
-
+<p align="center">
+  <img src="assets/image1.png" width="850">
+</p>
 ### Web Technologies
 - HTML5
 - CSS3
